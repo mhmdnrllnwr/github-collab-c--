@@ -1,0 +1,9 @@
+git init : initialize git repo
+
+git add . : add file into repo
+
+git commit -m "message" : commit into repo, 
+can skip message with exclusing -m
+
+
+
