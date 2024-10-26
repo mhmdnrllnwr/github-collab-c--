@@ -5,5 +5,5 @@ void callNuwa(){
     cout << "\nnuwa";
 }
 int main(){
-    std :: cout << "hello ";
+    std :: cout << "hello";
 }
