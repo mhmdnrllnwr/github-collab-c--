@@ -2,8 +2,9 @@
 using namespace std;
 
 void callNuwa(){
-    cout << "\nnuwa";
+    cout << "nuwa";
 }
 int main(){
     std :: cout << "hello";
+    callNuwa();
 }
