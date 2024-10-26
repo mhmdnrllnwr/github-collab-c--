@@ -1,7 +1,7 @@
 #learn basic such as initilize, stage, commit
 
 #Clone repo
-git clone "repo url"
+git clone https://github.com/mhmdnrllnwr/github-collab-c--.git
 #choose file to save repo
 
 #create a new branch
